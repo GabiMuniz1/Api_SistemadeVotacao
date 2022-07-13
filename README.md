@@ -21,5 +21,5 @@ Depois na pasta clonada abra o terminal e rode o comando docker:
 Depois volte a rodar o mysql.
 
 <h2>#LINK SWAGGER:</h2>
-[http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
+http://localhost:8080/swagger-ui/index.html#/
 
