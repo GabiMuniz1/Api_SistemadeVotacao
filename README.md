@@ -3,12 +3,13 @@
 Tarefa Principal
 Em uma cooperativa, cada associado possui um voto e as decisões são tomadas através de assembleias, por votação. A partir disso, você precisa criar o backend para gerenciar essas sessões de votação.
 
-<h2>PRÉ-REQUISITOS<h2>
+<h2>PRÉ-REQUISITOS:
+
 <ul>Java 11+</ul>
 <ul>Docker</ul>
 <ul>Lombok</ul>
 
-<h2>Instalação<h2>
+<h2>Instalação:
 Clone o repositório:
 https://github.com/GabiMuniz1/Api_SistemadeVotacao.git
 
